@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sypher-password-manager",
+  "private_key_id": "1ca64f64e7848290b3e24e569464af87e938418c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFhO9XVCLS8XZn\nczY2zSpNJPJmxAGMjRdMOoeqZMPXQwsvXLIcEwVBKJ83+5vtwMh3UxRvuQHyfw1f\nGnVl0N0vtuvfgs1kBi63E2xh3UAzkKpUeFg3CvcmM4oW+BKJK3Q1TiEWkUN/hFTP\nRh/ofADTbG9fTpOte+9LqZzCa7vBY60nt925p6nAP0UjOYfTGgXzqv+AoYQSeUEk\nhJQEsJ4GdFULcdhlmmySBa2gnI28z43VqYhcU/ue4cYmJFog8hoChTghpDZW4bTB\nEVUglTScv6WGkKJ/nfaTFmNTRijVRZDgZ4pRCR6/30iOgJxScAAOHI70z/Bc9U3r\n51gxLJJfAgMBAAECggEAVzUf1W9c5sTckcVRCPYhuKjY652bz3oV8L6g2o8d1qOP\nwywKqZGOTtwIHFgXWuw0tlZ0nfVR0kbdWQGeFsOWfPQnBWrDk2eVZZiKUFU2/O1g\n/uWZkUfioje8PvLtgCmy57wkqMmfQyRiq5dbDDL/zFlCfRJ86mpfV4k+IKsfXT0F\nYOXbU5319YLZqqvlzDAmzkO9og8POuXEhj5DAww1UpNhffUgZj54pz0Amoic9ZZa\nPlnL6u78gf73g1Ata2P5o867okZx50jsDvU7ugaeLj6QOKR62facLevGFhvOVnEn\n6JW6ppDPbtikTRqhZQCFSfDytbNP3X8HHXcabkZjoQKBgQD0F/qZxBP7u0Nd/BBP\nLU1IzaNh/Y6ofAPdleHzBWowyrMoyb7w5g/e/UTuqA2wza988CGBUMLH2lSs/F0v\npfzoBvnZXewm3Au8LQFiwsdPi66U21gWiFLulcLGgxEaVzFwoo4mI3/xmp4m7kV+\nOy8Sm9EqvWM/QCRtmJoyh5YP/wKBgQDPJ2CLTck1nymbOJyXAeQxaUOdKO5+MkbN\n59XUhntBPgfsgTLztocySMezijnxT94JM72l/jsVXmV+UgE7nwv1gA0O7T9R/dR3\n5oDAjLNYxJoeThjkK1ZjzB5Y+Bd3qGCgCKUbOIG9gCICggXF4efGhxaATiTnkbT4\nlIoFigN9oQKBgAU23eua/LJL9cx0LgUC+ruraOoW+I0w2QRKx2DhpLsWGW2toZ6T\ny5L/5hETFffI7Q7GMnEIwKB0UYrAeV0jNpveSkgScZEC8l06uOTbNFbGrRwQ83jH\nwL3IBTkoY50kb7HwRwkZiQooO2ipfmKL8R18pqM7GHupax3MPL8HlnURAoGBALA8\nw/o/90rTWkZgZ3hhd45CC/AM/roGdA6Bin4A26Op7nvbf0mwpFy3Zo7srlcKp9AU\nYOhz3jhT0u0hP0NGEJqQkot8dD6BQN2xESC/k2WV/biCoNKdvCWzZq4yg2Sdr3b3\nY+BAtsBN3qFblSXBB7ry+sW1tdf9MoW5eaM0w7uBAoGBANW3d+2fLn12mafoKjtP\nDRhXHF0i4J50DlnwH3ztmHRVGmXa7HNAF4XpMi7TqdKh+CD1FfardDnemrtqCa6f\nWQbCCHCSLUZzCYhhvIxk06d7kXMR86x390nYPxADbX8Vqvo8akxcGNfsJGss1pJe\nTqUc/uZY4ZssAvumMIBEWLoS\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-1kkqb@sypher-password-manager.iam.gserviceaccount.com",
+  "client_id": "103187228401971762096",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1kkqb%40sypher-password-manager.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
